@@ -1,0 +1,5 @@
+{
+  "name": "FocusBase",
+  "description": "A smart study and productivity suite powered by Gemini. Features an AI assistant, Focus.Ai, to help you manage tasks, get answers to complex questions, and enhance your learning materials.",
+  "requestFramePermissions": []
+}
